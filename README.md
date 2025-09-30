@@ -14,7 +14,7 @@ O objetivo é praticar algoritmos e raciocínio lógico usando **Visualg** e out
 
 ## 📑 Apostila FACCAT
 Apostila utilizada como base para os exercícios:  
-➡️ [Apostila FACCAT (PDF)](./apostila.pdf)  
+➡️ [Apostila FACCAT (PDF)](./apostila-faccat.pdf)  
 
 
 
